@@ -1,4 +1,4 @@
-displayName: Fossorial Badger
+displayName: Fossorial Badger Patch
 type: middleware
 
 import: github.com/hajimAIM/badger
