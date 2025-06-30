@@ -1,7 +1,7 @@
 displayName: Fossorial Badger
 type: middleware
 
-import: github.com/fosrl/badger
+import: github.com/hajimAIM/badger
 
 summary: Middleware auth bouncer for Pangolin
 
