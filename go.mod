@@ -1,3 +1,3 @@
-module github.com/hajimAIM/badger
+module github.com/hajimaim/badger
 
 go 1.23.1
